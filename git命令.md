@@ -5,4 +5,5 @@
 ---
 
 [《Pro Git》](https://progit.org/)
+[《Pro Git中文版》](http://iissnan.com/progit/)
 
